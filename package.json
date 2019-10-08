@@ -1,6 +1,6 @@
 {
-  "name": "ton-chan",
-  "version": "0.1.0",
+  "name": "Pixel",
+  "version": "2.0.0",
   "private": true,
   "scripts": {
     "start": "./node_modules/.bin/react-native run-android",
