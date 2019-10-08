@@ -211,7 +211,7 @@ const Config = {
     /**
      * Slogan phrase during wallet CreateScreen
      */
-    sloganCreateScreen: 'Beer on the blockchain.',
+    sloganCreateScreen: 'Welcome to our 8 bit dreamland!',
 
     /**
      * Displayed in the settings screen
